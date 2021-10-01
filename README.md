@@ -1,5 +1,6 @@
 ## Bootstrap tutorial
   # Basics
+  * container
   * Pagination
   * Accordion
   * Bread crumbs
